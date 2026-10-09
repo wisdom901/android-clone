@@ -1,0 +1,33 @@
+.{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px50px;
+    background: white;
+    box-shadow:  2px 10px;
+}
+.logo{
+    font-size: 20px;
+    font-weight: bold;
+    color: lightgreen;
+}
+.menu {
+    margin: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
